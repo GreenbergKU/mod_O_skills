@@ -1,0 +1,19 @@
+
+
+Javascript
+
+var food = "2"
+var is_delicious = true
+var food = "4"
+var num2 = 3
+var num7 = 5
+var quotient = num7/num2
+quotient
+
+let songs = ['A', 'B', 'C', 'D']
+console.log(songs.length)
+let first = songs.shift()
+
+
+
+console.log(songs.length)
